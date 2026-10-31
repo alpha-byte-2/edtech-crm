@@ -57,7 +57,7 @@ export default function InquiryForm() {
             you need, and we’ll get back to you.
           </p>
         </div>
-        <Link to="/admin/login">Staff login</Link>
+        <Link to="/admin/login">Admin login</Link>
       </aside>
 
       <main className="form-col">
