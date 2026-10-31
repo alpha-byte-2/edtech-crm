@@ -38,7 +38,7 @@ export default function AdminLogin() {
     <div className="center-screen">
       <div className="panel login-card">
         <div>
-          <h1 style={{ fontSize: 30 }}>Staff login</h1>
+          <h1 style={{ fontSize: 30 }}>Admin login</h1>
           <p className="muted" style={{ marginTop: 6 }}>
             Sign in to view and manage inquiries.
           </p>
